@@ -7,7 +7,7 @@ All clips come from Pexels and were trimmed, cropped and compressed for this pag
 | `video/tuffo.mp4` | Hero | [Woman jumping into sea at Cinque Terre](https://www.pexels.com/video/woman-jumping-into-sea-at-cinque-terre-32778536/) | Mihaela Claudia Puscas |
 | `video/mare.mp4` | Mare | [Scenic coastline of Cinque Terre](https://www.pexels.com/video/scenic-coastline-of-cinque-terre-italy-33987506/) | Stephan Leuzinger |
 | `video/tavola.mp4` | Tavola | [Close-up of enjoying spaghetti with clams](https://www.pexels.com/video/close-up-of-enjoying-spaghetti-with-clams-30900434/) | Nadin Sh |
-| `video/compagnia.mp4` | Compagnia | [A group of people sitting on a boat drinking beer](https://www.pexels.com/video/a-group-of-people-sitting-on-a-boat-drinking-beer-4927834/) | See the source page |
+| `video/compagnia.mp4` | Compagnia | [Four People Holding Beer Cheers Together](https://www.pexels.com/video/four-people-holding-beer-cheers-together-7566592/) | Kampus Production |
 | `video/vernazza.mp4` | Gallery | [Aerial view of Vernazza at sunset](https://www.pexels.com/video/aerial-view-of-vernazza-at-sunset-36690433/) | See the source page |
 | `video/barca.mp4` | La barca | [Drone footage of three catamarans](https://www.pexels.com/video/drone-footage-of-three-catamarans-sailing-near-the-coast-14502997/) | Wellington Silva |
 
